@@ -1,8 +1,7 @@
-Distributed Caching System for YouTube Searches
+##Distributed Caching System for YouTube Searches##
+####Developed by Zach Zarrow to fulfill an academic assignment in Spring 2011.####
 
-Developed by Zach Zarrow to fulfill an academic assignment in Spring 2011.
-
-This is a P2P distributed caching server that runs across a virtual network of server nodes.  Each server node runs this service.  It serves a simple form via web that asks the user for a YouTube search query. When the form is submitted, the system returns the YouTube search results and caches them in the distributed hash table to speed future response times.
+This is a P2P distributed caching server that runs across a virtual network of server nodes.  It serves a simple form via web that asks the user for a YouTube search query. When the form is submitted, the system returns the YouTube search results and caches them in the distributed hash table to speed future response times.
 
 Below is the README information originaly submitted with the assignment:
 
