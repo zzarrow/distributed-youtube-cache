@@ -3,9 +3,11 @@
 
 This is a P2P distributed caching server that runs across a virtual network of server nodes.  It serves a simple form via web that asks the user for a YouTube search query. When the form is submitted, the system returns the YouTube search results and caches them in the distributed hash table to speed future response times.
 
+
 Below is the README information originaly submitted with the assignment:
 
 Description of features implemented:
+
   - All specified features are implemented, and the program correctly distributes itself across multiple nodes
 
   - Some notes:
